@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mdgxh.github.io</id>
+    <title>CatLing&apos;s Home</title>
+    <updated>2023-01-23T06:35:14.974Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mdgxh.github.io"/>
+    <link rel="self" href="https://mdgxh.github.io/atom.xml"/>
+    <subtitle>恭喜你发现CC与Linear的站点！此站点将会同步更新Linear的最新作品！</subtitle>
+    <logo>https://mdgxh.github.io/images/avatar.png</logo>
+    <icon>https://mdgxh.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, CatLing&apos;s Home</rights>
+</feed>
